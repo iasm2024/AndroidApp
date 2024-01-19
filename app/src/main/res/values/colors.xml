@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="yellow">#FFD033</color>
+    <color name="titleColor">#FF4081</color>
+    <color name="descriptionColor">#757575</color>
+    <color name="dateColor">#009688</color>
+    <color name="ratingsColor">#FFC107</color>
+    <color name="darkBackgroundColor">#212121</color> <!-- Dark Gray -->
+    <color name="darkScrollViewColor">#303030</color> <!-- Darker Gray -->
+    <color name="darkCardsContainerColor">#424242</color>
+    <color name="darkCardBackgroundColor">#303030</color>
+
+
+</resources>
